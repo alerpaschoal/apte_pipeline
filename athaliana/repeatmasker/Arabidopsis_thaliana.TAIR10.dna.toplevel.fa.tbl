@@ -1,0 +1,51 @@
+==================================================
+file name: Arabidopsis_thaliana.TAIR10.dna.toplevel.fa
+sequences:             7
+total length:  119667750 bp  (119482146 bp excl N/X-runs)
+GC level:         36.06 %
+bases masked:   18317234 bp ( 15.31 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+SINEs:              573       114272 bp    0.10 %
+      ALUs            0            0 bp    0.00 %
+      MIRs            0            0 bp    0.00 %
+
+LINEs:             2064      1242473 bp    1.04 %
+      LINE1        2063      1242353 bp    1.04 %
+      LINE2           0            0 bp    0.00 %
+      L3/CR1          0            0 bp    0.00 %
+
+LTR elements:      6261      8562079 bp    7.15 %
+      ERVL            0            0 bp    0.00 %
+      ERVL-MaLRs      0            0 bp    0.00 %
+      ERV_classI      0            0 bp    0.00 %
+      ERV_classII     0            0 bp    0.00 %
+
+DNA elements:     10040      5895983 bp    4.93 %
+     hAT-Charlie      0            0 bp    0.00 %
+     TcMar-Tigger     0            0 bp    0.00 %
+
+Unclassified:      3991      2512134 bp    2.10 %
+
+Total interspersed repeats: 18326941 bp   15.31 %
+
+
+Small RNA:          492        81411 bp    0.07 %
+
+Satellites:           0            0 bp    0.00 %
+Simple repeats:       0            0 bp    0.00 %
+Low complexity:       0            0 bp    0.00 %
+==================================================
+
+* most repeats fragmented by insertions or deletions
+  have been counted as one element
+                                                      
+
+The query species was assumed to be homo          
+RepeatMasker Combined Database: Dfam_Consensus-20170127, RepBase-20170127
+        
+run with rmblastn version 2.2.27+
+The query was compared to classified sequences in ".../Transposable_Element.fasta"
+
